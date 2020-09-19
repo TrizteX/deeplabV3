@@ -22,4 +22,5 @@ deep()
 ```
 
 **Output**
+
 The output segmentated image is saved as img.jpg in the current working directory.
